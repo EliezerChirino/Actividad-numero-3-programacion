@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\genesis chirino\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\genesis chirino\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.csprojAssemblyReference.cache
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.AssemblyInfoInputs.cache
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.AssemblyInfo.cs
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\genesis chirino\source\repos\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.exe
+C:\Users\genesis chirino\source\repos\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.deps.json
+C:\Users\genesis chirino\source\repos\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.runtimeconfig.json
+C:\Users\genesis chirino\source\repos\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.runtimeconfig.dev.json
+C:\Users\genesis chirino\source\repos\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.dll
+C:\Users\genesis chirino\source\repos\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.pdb
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.dll
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.pdb
+C:\Users\genesis chirino\source\repos\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.genruntimeconfig.cache
